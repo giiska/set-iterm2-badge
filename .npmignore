@@ -1,0 +1,9 @@
+node_modules
+npm-debug.log
+tmp
+*.swp
+.npmignore
+.ftppass
+tests
+*.sublime-project
+*.sublime-workspace

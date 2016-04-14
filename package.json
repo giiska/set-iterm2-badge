@@ -1,0 +1,22 @@
+{
+  "name": "set-iterm2-badge",
+  "version": "0.0.3",
+  "author": {
+    "name": "Johnxiao"
+  },
+  "description": "set-iterm2-badge",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bammoo/set-iterm2-badge.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/bammoo/set-iterm2-badge/issues"
+  },
+  "homepage": "https://github.com/bammoo/set-iterm2-badge"
+}
